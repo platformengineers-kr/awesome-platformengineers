@@ -38,6 +38,7 @@
 ## 문서
 
 - What is Platform Engineering? (Gartner; 영문) [https://www.gartner.com/en/articles/what-is-platform-engineering](https://www.gartner.com/en/articles/what-is-platform-engineering)
+  - 플랫폼 엔지니어링이 무엇입니까? - 가트너 (한국어 번역) [what-is-platform-engineering-gartner](./articles/what-is-platform-engineering-gartner.md)
 - What is Platform Engineering? (Platform Engineering; 영문) [https://platformengineering.org/blog/what-is-platform-engineering](https://platformengineering.org/blog/what-is-platform-engineering)
 
 
